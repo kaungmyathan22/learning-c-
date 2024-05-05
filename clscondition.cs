@@ -11,6 +11,7 @@ class Condition {
             Console.WriteLine("You passed the exam.");
         }
         // if (mark == 50)
+
         // {
         //     Console.WriteLine("Mark is 50");
         // } else if(mark > 50) {
